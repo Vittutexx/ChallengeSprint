@@ -1,4 +1,4 @@
-#Integrantes do grupo
+# Integrantes do grupo
 
 Ronald de Oliveira Farias - RM552364
 Gustavo Carvalho Noia - RM552466
