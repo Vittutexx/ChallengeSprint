@@ -1,2 +1,6 @@
-# ChallengeSprint
-Entrega da Sprint1 de Compliance, Quality Assurance &amp; Tests. Solicitado pelo professor Renato Jardim Parducci.
+# Integrantes do grupo
+
+Ronald de Oliveira Farias - RM552364
+Gustavo Carvalho Noia - RM552466
+Lucas Serbato de Barros - RM551821
+Vitor Teixeira Silva - RM552228
